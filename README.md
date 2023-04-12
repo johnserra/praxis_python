@@ -1,3 +1,1 @@
-# praxis_python
-
-# Python Sandbox
+# My Python Sandbox
